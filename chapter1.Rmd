@@ -1,4 +1,6 @@
+Kuulin kurssista yammerin kautta. Nyt on jännittävä olo, koska ei ole R:stä ohjelmana minkäänlaista kokemusta. Myöskään koodaamisesta ei ole kokemusta. Toivon kurssilla oppivani perusteita sovelluksesta, ja toivottavasti pystyn jatkossa hyödyntämään sovellusta esimerkiksi kuvaajien teossa. 
 
+https://github.com/Vascovan/IODS-project
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*

@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: Vasco Vanhala
 output:
   html_document:
     theme: cosmo
